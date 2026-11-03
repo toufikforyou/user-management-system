@@ -9,7 +9,7 @@
 > At first clone this project. Link
 >
 > ```bash
-> git clone https://github.com/toufikforyou/user-management-console-app.git
+> git clone https://github.com/toufikforyou/user-management-system-csharp.git
 > ```
 
 > Add new feture `Custom Error Handling`
