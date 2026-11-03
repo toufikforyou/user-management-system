@@ -24,7 +24,7 @@ This is a user account management system built with PHP. This project provides t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/toufikforyou/user-account-management-system-php.git
+   git clone https://github.com/toufikforyou/user-management-system-php.git
    ```
 2. Install dependencies:
    ```bash
