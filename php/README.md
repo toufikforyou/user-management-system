@@ -24,7 +24,8 @@ This is a user account management system built with PHP. This project provides t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/toufikforyou/user-management-system-php.git
+   git clone https://github.com/toufikforyou/user-management-system.git
+   cd user-management-system/php
    ```
 2. Install dependencies:
    ```bash
@@ -40,4 +41,4 @@ We also have a [Code of Conduct](docs/CODE_OF_CONDUCT.md) that we expect all con
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
